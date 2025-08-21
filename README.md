@@ -1,5 +1,5 @@
 # Harry Seymour
-Level 6 Software Engineering apprentice • Java · Haskell · Git • CertHE (Merit)
+Level 6 Software Engineering apprentice • Java · Haskell · C# • CertHE (Merit) · BTEC IT (DMM)
 
 ## Featured projects
 - **Decision-Map Android App (Java / Gradle & Android Studio)** — CSV-driven graph → Android UI • [Repo](https://github.com/HarryJSeymour/Programming-Android-App) • [Video](https://www.youtube.com/watch?v=uy13Q2qc1AE)
