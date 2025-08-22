@@ -8,5 +8,5 @@ Level 6 Software Engineering apprentice • Java · Haskell · C# • CertHE (Me
 - **Networking Team Project (case study)** — 4-person, 3 months • [Video](https://www.youtube.com/watch?v=uy2XUOKpHxA)
 
 
-_Bournemouth, UK • [LinkedIn](https://www.linkedin.com/in/harryjseymour/) • HarryJSeymour@outlook.com • [Website](www.harryjseymour.com)_
+_Bournemouth, UK • [LinkedIn](https://www.linkedin.com/in/harryjseymour/) • HarryJSeymour@outlook.com • [Website](http://www.harryjseymour.com)_
 
